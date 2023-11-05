@@ -1,0 +1,4 @@
+<resources>
+   <string name="app_name">RecipeTestTask</string>
+   <string name="an_error_has_occurred_please_try_again">An error has ocurred please try again</string>
+</resources>
